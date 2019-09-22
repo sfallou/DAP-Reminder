@@ -1,0 +1,6 @@
+{
+    "app_name": "Dap-Reminder",
+    "author": "Sfallou",
+    "main_module": "src/main/python/main.py",
+    "version": "0.0.0"
+}
